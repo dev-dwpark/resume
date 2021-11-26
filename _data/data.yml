@@ -244,7 +244,14 @@ experiences:
       time: 2014.06 - 2016.05
       company: S-Soft
       details: |
-        안드로이드 및 서버사이드 개발 담당         
+        안드로이드 및 서버사이드 개발 담당     
+
+myabouts:
+    - role: 저는 아웃도어 액티비티와 운동을 즐겨해요.
+      company: 취미가 있다는건 굉장히 중요하고, 그 의의가 있다고 생각해요.
+      details: |
+        어느 한 가지에 집중 하는 제 끈기를 보여 줄 수 있는 항목이라고 생각해요.
+
 
 publications:
     title: Publications
