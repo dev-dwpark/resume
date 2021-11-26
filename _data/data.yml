@@ -32,6 +32,25 @@ career-profile:
       안녕하세요, 현재 콘텐츠캐리어 에서 근무하고 있는 7년차 안드로이드 개발자, 박 대웅 입니다.
       수행하는 업무에 있어 +1 이상이 될 지 언정, -1은 절대 되지 않는다고 자신있게 말씀 드릴 수 있습니다.        
 
+skills:
+    title: About
+
+    toolset:
+      - name: Java (or Android)
+        level: 70%
+
+      - name: kotlin
+        level: 50%
+
+      - name: Json & Xml
+        level: 50%
+
+      - name: Mysql-Query
+        level: 50%
+
+      - name: Php
+        level: 50%
+
 projects-cc:
     title: Projects by ContentsCarrier (SejongTelecom)
     intro: >
@@ -192,10 +211,10 @@ projects-ssoft:
 education:
     - degree: 순천대학교
       university: university
-      time: 2008-
+      time: 2008-2020
       details: |
         학사
-          - 졸업예정
+          - 졸업
 
     - degree: 야탑고등학교
       university: highschool
@@ -203,8 +222,14 @@ education:
       details:    
 
 experiences:
+    - role: Android Developer
+      time: 2020.05.01 - 현재
+      company: 세종텔레콤
+      details: |
+        안드로이드 개발 및 운영 담당
+
     - role: Android Developer (대리)
-      time: 2017.01 - 현재
+      time: 2017.01 - 2020.03.01
       company: IBank Digitalworks
       details: |
         안드로이드 개발 및 운영 담당
@@ -234,24 +259,5 @@ publications:
         authors: 박 대웅 외 4명
         conference: 한국전자통신학회 (2013.11)       
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Java (or Android)
-        level: 70%
-
-      - name: kotlin
-        level: 50%
-
-      - name: Json & Xml
-        level: 50%
-
-      - name: Mysql-Query
-        level: 50%
-
-      - name: Php
-        level: 50%
-
 footer: >
-    박 대웅 (Park DaeWoong) 01068006273 dwpark.dev@gmail.com
+    박 대웅 (Park DaeWoong) 01068006273 pppdw@daum.net
