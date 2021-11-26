@@ -1,0 +1,79 @@
+{% assign projects = site.data.data.projects-ibank %}
+{% if projects %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ projects.title }}
+  </h2>
+
+  {% if projects.intro %}
+  <div class="intro">
+      <p>{{ projects.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for project in projects.assignments %}
+
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="project-title">
+
+            {% if project.thumb %}
+            <img class="thumb" src="{{ site.baseurl }}/assets/images/{{ project.thumb }}"/>
+            {% else %}
+            <img class="thumb" src="{{ site.baseurl }}/assets/images/default_launcher.png"/>
+            {% endif %}
+
+            {% if project.repository %}
+            <a href="{{ project.link }}"> | {{ project.title }} <b>(go Repository)</b></a>
+            {% else %}
+            <a href="{{ project.link }}"> | {{ project.title }} (go Detail)</a>
+            {% endif %}
+
+          </h3>
+          <div class="time">{{ project.time }}</div>
+        </div><!--//upper-row-->
+
+      </div><!--//meta-->
+
+      {% if project.tagline %}
+        <div class="company">{{ project.tagline }}</div><br>
+      {% endif %}
+
+      <!--{% if project.link == 'projects/ibank/forever21' %}
+      <iframe width="100%" height="1050px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/groupware' %}
+      <iframe width="100%" height="700px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/inniglobal' %}
+      <iframe width="100%" height="1250px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/innikorea' %}
+      <iframe width="100%" height="1000px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/sivillage' %}
+      <iframe width="100%" height="1000px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %}
+
+      {% if project.link == 'projects/ibank/jaju' %}
+      <iframe width="100%" height="1000px" frameborder="0" src="{{ site.baseurl }}/{{ project.link }}"></iframe>
+      {% endif %} -->
+
+    </div><!--//item-->
+
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

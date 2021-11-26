@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include projects-ibank.html %}
+
+{% include projects-private.html %}
+
+{% include projects-inbiz.html %}
+
+{% include projects-ssoft.html %}
+
+{% include experiences.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
