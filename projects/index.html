@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% include myabouts.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include projects-cc.html %}
+
+{% include projects-ibank.html %}
+
+{% include projects-private.html %}
+
+{% include projects-inbiz.html %}
+
+{% include projects-ssoft.html %}
+
+{% include experiences.html %}
+
+{% include publications.html %}
