@@ -33,7 +33,7 @@ career-profile:
       수행하는 업무에 있어 +1 이상이 될 지 언정, -1은 절대 되지 않는다고 자신있게 말씀 드릴 수 있습니다.        
 
 skills:
-    title: asd
+    title: Java 와 Kotlin 을 사용하여 개발을 하고 있습니다.</br>보통 retrofit2 를 사용한 rest api 통신 환경을 선호합니다.</br>아주 간단하게 tdd가 가능한 mvp 패턴을 선호하지만, mvvm/클린 아키텍쳐 등 타 패턴 구조의 코드에도 지장없이 업무에 투입할 수 있습니다.</br>현재는 일반적인 객체지향의 방식과 다른 corutin 의 루틴 관리법에 대해 관심있게 살펴보고 있습니다.
 
     toolset:
       - name: Java (or Android)
