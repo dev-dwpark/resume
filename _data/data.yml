@@ -58,7 +58,7 @@ projects-cc:
 
     assignments:
       - title: Forever21
-        link: "projects/ibank/forever21"
+        link: "ibank/forever21"
         time: 2017.08 - 2019.01
         thumb: forever21.png
         tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
@@ -70,37 +70,37 @@ projects-ibank:
 
     assignments:
       - title: Forever21
-        link: "projects/ibank/forever21"
+        link: "ibank/forever21"
         time: 2017.08 - 2019.01
         thumb: forever21.png
         tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
 
       - title: iBank Groupware
-        link: "projects/ibank/groupware"
+        link: "ibank/groupware"
         time: 2018.09 - 2020.02.01
         thumb: ibank.png
         tagline: "kotlin 과 android architecture 를 이용한 사내 모바일 그룹웨어 개발 및 구현"
 
       - title: Innisfree Global
-        link: "projects/ibank/inniglobal"
+        link: "ibank/inniglobal"
         time: 2017.02 - 2020.02.01
         thumb: innisfree_global.png
         tagline: "동남아 지역, 일본 및 홍공 등의 국가를 타겟으로한 이니스프리 어플리케이션 개발 및 운영" 
 
       - title: S.I.Village
-        link: "projects/ibank/sivillage"
+        link: "ibank/sivillage"
         time: 2017.06 - 2017.10
         thumb: sivillage.png
         tagline: "쇼핑몰 운영을 위한 어플리케이션 개발, 기존의 웹앱을 네이티브 환경으로 이식"
 
       - title: Innisfree Korean
-        link: "projects/ibank/innikorea"
+        link: "ibank/innikorea"
         time: 2017.11 - 2018.02
         thumb: innisfree_korean.png
         tagline: "국내 이니스프리 사용자를 위한 쇼핑몰 어플리케이션"
 
       - title: Jaju 
-        link: "projects/ibank/jaju"
+        link: "ibank/jaju"
         time: 2017.10 - 2018.01
         thumb: jaju.png
         tagline: "국내 쇼핑몰 어플리케이션 유지보수 및 이슈대응"  
@@ -123,7 +123,7 @@ projects-inbiz:
 
     assignments:
       - title: 배달 대행 솔루션
-        link: "projects/inbizsoft/moacall"
+        link: "inbizsoft/moacall"
         tagline: "배달대행 관련 프로그램 개발, 유지보수 및 신 기능 추가"
         time: 2016.05 - 2016.12
       
@@ -134,77 +134,77 @@ projects-ssoft:
 
     assignments:
       - title: 피터팬의 좋은 방 구하기
-        link: "projects/ssoft/peterpan"
+        link: "ssoft/peterpan"
         tagline: "부동산 매물 및 토지 거래, 유저 커뮤니티 어플리케이션"
         time: 2015.03 - 2015.06
 
       - title: 밀리언애드
-        link: "projects/ssoft/millionad"
+        link: "ssoft/millionad"
         tagline: "현 밀리언써클, 경품 추첨 및 사용자 통계, 광고성 리워드 제공 어플리케이션"
         time: 2016.02 - 2016.05
 
       - title: SNS 메신저 및 커뮤니티 채팅 앱 (비밀계약)
-        link: "projects/ssoft/sns"
+        link: "ssoft/sns"
         tagline: "SNS 어플리케이션, ble 비콘을 활용한 근거리/장거리 대상 메신저 앱"
         time: 2015.08 - 2016.02
 
       - title: 잡월드
-        link: "projects/ssoft/jobworld"
+        link: "ssoft/jobworld"
         tagline: "구인/구직 직업 소개 및 커뮤니티 어플리케이션"
         time: 2015.06 - 2015.08
 
       - title: IPCC FMC
-        link: "projects/ssoft/ipcc"
+        link: "ssoft/ipcc"
         tagline: "보이스톡을 이용한 LG U+ 사내의 고객 상담관리 어플리케이션"
         time: 2014.11 - 2015.02
 
       - title: 마이골통
-        link: "projects/ssoft/mygoltong"
+        link: "ssoft/mygoltong"
         tagline: "골프 정보 제공 및 회원 커뮤니티 제공 어플리케이션"
         time: 2014.10 - 2015.01
 
       - title: 빠방
-        link: "projects/ssoft/bbabang"
+        link: "ssoft/bbabang"
         tagline: "부동산 거래 어플리케이션"
         time: 2015.04 - 2015.05
 
       - title: 셋방
-        link: "projects/ssoft/setbang"
+        link: "ssoft/setbang"
         tagline: "부동산 거래 어플리케이션"
         time: 2015.04 - 2015.05
 
       - title: 날로먹는 한자
-        link: "projects/ssoft/nalo"
+        link: "ssoft/nalo"
         tagline: "한자 교육관련 어플리케이션"
         time: 2015.01 - 2015.02    
 
       - title: 애드타임
-        link: "projects/ssoft/adtime"
+        link: "ssoft/adtime"
         tagline: "잠금화면 (커스텀 락스크린) 관련 리워드 제공 어플리케이션"
         time: 2014.11 - 2015.01
 
       - title: 포인트 빙고
-        link: "projects/ssoft/pointbingo"
+        link: "ssoft/pointbingo"
         tagline: "적립된 포인트를 이용한 음식 배달 및 사용 어플리케이션"
         time: 2014.09 - 2014.11
 
       - title: 나와 놀자 (셋톱박스, 매장용 DP ver)
-        link: "projects/ssoft/nanol"
+        link: "ssoft/nanol"
         tagline: "매장용 대형 스크림 홍보물 출력 어플리케이션"
         time: 2014.07 - 2014.09
 
       - title: 힐링도형 심리, 오늘과 내일
-        link: "projects/ssoft/tnt"
+        link: "ssoft/tnt"
         tagline: "심리 테스트 어플리케이션"
         time: 2014.06 - 2014.07
 
       - title: 충전요
-        link: "projects/ssoft/chargeyo"
+        link: "ssoft/chargeyo"
         tagline: "편의점 배터리 충전 관련 어플리케이션"
         time: 2014.09 - 2014.09
 
       - title: 애드썸
-        link: "projects/ssoft/addssum"
+        link: "ssoft/addssum"
         tagline: "리워드 어플리케이션"
         time: 2014.09 - 2014.09    
 
