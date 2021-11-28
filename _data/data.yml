@@ -54,14 +54,21 @@ skills:
 projects-cc:
     title: Projects by ContentsCarrier (SejongTelecom)
     intro: >
-      안드로이드 앱 개발 담당 및 PM 업무를 담당하고 있으며, 대형 고객사와 실시간 이벤트 대응 및 이슈 대응, 프로젝트 개발 등을 진행하고 있습니다.
+      안드로이드 앱 개발, 유지보수 업무를 담당하고 있습니다.
 
     assignments:
-      - title: Forever21
-        link: "ibank/forever21"
-        time: 2017.08 - 2019.01
-        thumb: forever21.png
-        tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
+      - title: 왈라뷰
+        link: "cc/wallavu"
+        time: 2020.05 - 
+        thumb: wallavu.png
+        tagline: "비디오커머스 왈라뷰 어플리케이션 개발 및 유지보수"
+
+      - title: 내카
+        link: "cc/naecar"
+        time: 2021.08 - 
+        thumb: naecar.png
+        tagline: "차량 정보 포럼 내카 어플리케이션 개발 및 유지보수"
+
 
 projects-ibank:
     title: Projects by IBank
