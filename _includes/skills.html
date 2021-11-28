@@ -1,31 +1,29 @@
-{% assign skills = site.data.data.skills %}
-{% if skills %}
-<section class="skills-section section">
-
+<section class="section experiences-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    {{ skills.title }}
+    Portfolio
   </h2>
 
-  <div class="skillset">
+  <div class="item">
 
-    {% for skill in skills.toolset %}
-    <div class="item">
+    <div class="meta">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      <div class="upper-row">
+        <h3 class="job-title"><b>아래는 제가 진행 했던 프로젝트들의 나열 입니다.</b></h3>
+      </div><!--//upper-row-->
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
+      <div class="company"><i>Java 와 Kotlin 을 사용하여 개발을 하고 있습니다.</br>
+    보통 retrofit2 를 사용한 rest api 통신 환경을 선호합니다.</br>
+    아주 간단하게 tdd가 가능한 mvp 패턴을 선호하지만, mvvm/클린 아키텍쳐 등 타 패턴 구조의 코드에도 지장없이 업무에 투입할 수 있습니다.</br>
+    현재는 일반적인 객체지향의 방식과 다른 corutin 의 루틴 관리법에 대해 관심있게 살펴보고 있습니다.</i></div>
 
-    </div><!--//item-->
-    {% endfor %}
+    </div><!--//meta-->
 
-  </div>
 
-</section><!--//skills-section-->
-{% endif %}
+  </div><!--//item-->
+
+</section><!--//section-->
+
