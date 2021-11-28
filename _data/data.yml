@@ -38,6 +38,21 @@ skills:
     아주 간단하게 tdd가 가능한 mvp 패턴을 선호하지만, mvvm/클린 아키텍쳐 등 타 패턴 구조의 코드에도 지장없이 업무에 투입할 수 있습니다.<br>
     현재는 일반적인 객체지향의 방식과 다른 corutin 의 루틴 관리법에 대해 관심있게 살펴보고 있습니다.
 
+    toolset:
+      - name: Java (or Android)
+        level: 70%
+
+      - name: kotlin
+        level: 50%
+
+      - name: Json & Xml
+        level: 50%
+
+      - name: Mysql-Query
+        level: 50%
+
+      - name: Php
+        level: 50%
 
 projects-cc:
     title: Projects by ContentsCarrier (SejongTelecom)

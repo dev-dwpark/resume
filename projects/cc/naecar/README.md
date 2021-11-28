@@ -1,10 +1,10 @@
 ## Forever21
 
-![inni-global-1](./image/forever21-1.jpeg){: width="14%" height="100%"}
-![inni-global-2](./image/forever21-2.jpeg){: width="14%" height="100%"}
-![inni-global-3](./image/forever21-3.jpeg){: width="14%" height="100%"}
-![inni-global-4](./image/forever21-4.jpeg){: width="14%" height="100%"}
-![inni-global-5](./image/forever21-5.jpeg){: width="14%" height="100%"}
+![inni-global-1](./image/naecar-1.jpeg){: width="14%" height="100%"}
+![inni-global-2](./image/naecar-2.jpeg){: width="14%" height="100%"}
+![inni-global-3](./image/naecar-3.jpeg){: width="14%" height="100%"}
+![inni-global-4](./image/naecar-4.jpeg){: width="14%" height="100%"}
+![inni-global-5](./image/naecar-5.jpeg){: width="14%" height="100%"}
 
 ### 개요
 - 
