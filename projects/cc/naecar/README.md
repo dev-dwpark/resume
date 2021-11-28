@@ -1,4 +1,4 @@
-## Forever21
+## Naecar
 
 ![inni-global-1](./image/naecar-1.jpeg){: width="14%" height="100%"}
 ![inni-global-2](./image/naecar-2.jpeg){: width="14%" height="100%"}
