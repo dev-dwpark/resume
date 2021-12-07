@@ -33,7 +33,7 @@ career-profile:
       수행하는 업무에 있어 +1 이상이 될 지 언정, -1은 절대 되지 않는다고 자신있게 말씀 드릴 수 있습니다.        
 
 skills:
-    title: About
+    title: Java 와 Kotlin 을 사용하여 개발을 하고 있습니다.</br>보통 retrofit2 를 사용한 rest api 통신 환경을 선호합니다.</br>아주 간단하게 tdd가 가능한 mvp 패턴을 선호하지만, mvvm/클린 아키텍쳐 등 타 패턴 구조의 코드에도 지장없이 업무에 투입할 수 있습니다.</br>현재는 일반적인 객체지향의 방식과 다른 corutin 의 루틴 관리법에 대해 관심있게 살펴보고 있습니다.
 
     toolset:
       - name: Java (or Android)
@@ -54,14 +54,21 @@ skills:
 projects-cc:
     title: Projects by ContentsCarrier (SejongTelecom)
     intro: >
-      안드로이드 앱 개발 담당 및 PM 업무를 담당하고 있으며, 대형 고객사와 실시간 이벤트 대응 및 이슈 대응, 프로젝트 개발 등을 진행하고 있습니다.
+      안드로이드 앱 개발, 유지보수 업무를 담당하고 있습니다.
 
     assignments:
-      - title: Forever21
-        link: "projects/ibank/forever21"
-        time: 2017.08 - 2019.01
-        thumb: forever21.png
-        tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
+      - title: 왈라뷰
+        link: "cc/wallavu"
+        time: 2020.05 - 
+        thumb: wallavu.png
+        tagline: "비디오커머스 왈라뷰 어플리케이션 개발 및 유지보수"
+
+      - title: 내카
+        link: "cc/naecar"
+        time: 2021.08 - 
+        thumb: naecar.png
+        tagline: "차량 정보 포럼 내카 어플리케이션 개발 및 유지보수"
+
 
 projects-ibank:
     title: Projects by IBank
@@ -70,37 +77,37 @@ projects-ibank:
 
     assignments:
       - title: Forever21
-        link: "projects/ibank/forever21"
+        link: "ibank/forever21"
         time: 2017.08 - 2019.01
         thumb: forever21.png
         tagline: "Forever21 Native 개발 및 유지보수 (특정국가 미국,영국,일본,캐나다 등 에 해당하며 한국은 하이브리드 환경)"
 
       - title: iBank Groupware
-        link: "projects/ibank/groupware"
+        link: "ibank/groupware"
         time: 2018.09 - 2020.02.01
         thumb: ibank.png
         tagline: "kotlin 과 android architecture 를 이용한 사내 모바일 그룹웨어 개발 및 구현"
 
       - title: Innisfree Global
-        link: "projects/ibank/inniglobal"
+        link: "ibank/inniglobal"
         time: 2017.02 - 2020.02.01
         thumb: innisfree_global.png
         tagline: "동남아 지역, 일본 및 홍공 등의 국가를 타겟으로한 이니스프리 어플리케이션 개발 및 운영" 
 
       - title: S.I.Village
-        link: "projects/ibank/sivillage"
+        link: "ibank/sivillage"
         time: 2017.06 - 2017.10
         thumb: sivillage.png
         tagline: "쇼핑몰 운영을 위한 어플리케이션 개발, 기존의 웹앱을 네이티브 환경으로 이식"
 
       - title: Innisfree Korean
-        link: "projects/ibank/innikorea"
+        link: "ibank/innikorea"
         time: 2017.11 - 2018.02
         thumb: innisfree_korean.png
         tagline: "국내 이니스프리 사용자를 위한 쇼핑몰 어플리케이션"
 
       - title: Jaju 
-        link: "projects/ibank/jaju"
+        link: "ibank/jaju"
         time: 2017.10 - 2018.01
         thumb: jaju.png
         tagline: "국내 쇼핑몰 어플리케이션 유지보수 및 이슈대응"  
@@ -123,7 +130,7 @@ projects-inbiz:
 
     assignments:
       - title: 배달 대행 솔루션
-        link: "projects/inbizsoft/moacall"
+        link: "inbizsoft/moacall"
         tagline: "배달대행 관련 프로그램 개발, 유지보수 및 신 기능 추가"
         time: 2016.05 - 2016.12
       
@@ -134,97 +141,95 @@ projects-ssoft:
 
     assignments:
       - title: 피터팬의 좋은 방 구하기
-        link: "projects/ssoft/peterpan"
+        link: "ssoft/peterpan"
         tagline: "부동산 매물 및 토지 거래, 유저 커뮤니티 어플리케이션"
         time: 2015.03 - 2015.06
 
       - title: 밀리언애드
-        link: "projects/ssoft/millionad"
+        link: "ssoft/millionad"
         tagline: "현 밀리언써클, 경품 추첨 및 사용자 통계, 광고성 리워드 제공 어플리케이션"
         time: 2016.02 - 2016.05
 
       - title: SNS 메신저 및 커뮤니티 채팅 앱 (비밀계약)
-        link: "projects/ssoft/sns"
+        link: "ssoft/sns"
         tagline: "SNS 어플리케이션, ble 비콘을 활용한 근거리/장거리 대상 메신저 앱"
         time: 2015.08 - 2016.02
 
       - title: 잡월드
-        link: "projects/ssoft/jobworld"
+        link: "ssoft/jobworld"
         tagline: "구인/구직 직업 소개 및 커뮤니티 어플리케이션"
         time: 2015.06 - 2015.08
 
       - title: IPCC FMC
-        link: "projects/ssoft/ipcc"
+        link: "ssoft/ipcc"
         tagline: "보이스톡을 이용한 LG U+ 사내의 고객 상담관리 어플리케이션"
         time: 2014.11 - 2015.02
 
       - title: 마이골통
-        link: "projects/ssoft/mygoltong"
+        link: "ssoft/mygoltong"
         tagline: "골프 정보 제공 및 회원 커뮤니티 제공 어플리케이션"
         time: 2014.10 - 2015.01
 
       - title: 빠방
-        link: "projects/ssoft/bbabang"
+        link: "ssoft/bbabang"
         tagline: "부동산 거래 어플리케이션"
         time: 2015.04 - 2015.05
 
       - title: 셋방
-        link: "projects/ssoft/setbang"
+        link: "ssoft/setbang"
         tagline: "부동산 거래 어플리케이션"
         time: 2015.04 - 2015.05
 
       - title: 날로먹는 한자
-        link: "projects/ssoft/nalo"
+        link: "ssoft/nalo"
         tagline: "한자 교육관련 어플리케이션"
         time: 2015.01 - 2015.02    
 
       - title: 애드타임
-        link: "projects/ssoft/adtime"
+        link: "ssoft/adtime"
         tagline: "잠금화면 (커스텀 락스크린) 관련 리워드 제공 어플리케이션"
         time: 2014.11 - 2015.01
 
       - title: 포인트 빙고
-        link: "projects/ssoft/pointbingo"
+        link: "ssoft/pointbingo"
         tagline: "적립된 포인트를 이용한 음식 배달 및 사용 어플리케이션"
         time: 2014.09 - 2014.11
 
       - title: 나와 놀자 (셋톱박스, 매장용 DP ver)
-        link: "projects/ssoft/nanol"
+        link: "ssoft/nanol"
         tagline: "매장용 대형 스크림 홍보물 출력 어플리케이션"
         time: 2014.07 - 2014.09
 
       - title: 힐링도형 심리, 오늘과 내일
-        link: "projects/ssoft/tnt"
+        link: "ssoft/tnt"
         tagline: "심리 테스트 어플리케이션"
         time: 2014.06 - 2014.07
 
       - title: 충전요
-        link: "projects/ssoft/chargeyo"
+        link: "ssoft/chargeyo"
         tagline: "편의점 배터리 충전 관련 어플리케이션"
         time: 2014.09 - 2014.09
 
       - title: 애드썸
-        link: "projects/ssoft/addssum"
+        link: "ssoft/addssum"
         tagline: "리워드 어플리케이션"
         time: 2014.09 - 2014.09    
 
 education:
     - degree: 순천대학교
-      university: university
-      time: 2008-2020
-      details: |
-        학사
-          - 졸업
+      university: 학사, 졸업
+      time: 
+      details:
 
     - degree: 야탑고등학교
-      university: highschool
-      time: 2005-2008
+      university: 졸업
+      time: 
       details:    
 
 experiences:
     - role: Android Developer
       time: 2020.05.01 - 현재
-      company: 세종텔레콤
+      company: 세종텔레콤 (콘텐츠캐리어)
       details: |
         안드로이드 개발 및 운영 담당
 
@@ -244,7 +249,67 @@ experiences:
       time: 2014.06 - 2016.05
       company: S-Soft
       details: |
-        안드로이드 및 서버사이드 개발 담당         
+        안드로이드 및 서버사이드 개발 담당     
+
+myabouts:
+    - role: 박 대웅 (朴 大熊), 약속이 아닌 증명을 하겠습니다.
+      company: +1 이 될지 언정 절대로 -1 이 되지는 않겠다고, 그렇게 업무로 꼭 증명 하겠습니다.
+      details: |
+       저는 현재 콘텐츠캐리어에 재직 중인 경력 7년의 개발자 박 대웅 입니다.
+
+       <b><i>총알은 혼자서는 나아갈 수 없습니다.<br>
+       <br>
+       방아쇠, 약실 등의 팀원들은 총 이라는 이름의 팀을 이루고 하나의 목표를 향해 총알을 빠르게 나아가게 합니다.<br>
+       <br>
+       저는 팀은 총과 같다고 생각합니다.<br>
+       <br>
+       우리는 모두 서로 다른 삶을 살았고, 다른 가치관을 품고 있습니다.<br>
+       그렇기 때문에 당연히 목표로 가는 길에 대해 각자의 생각과 가치관이 다를 수 밖에 없습니다.<br>
+       <br>
+       비판과 비난은 다릅니다.<br>
+       어떤 것에 대한 생각과 가치관이 다를 때 우리는 "비판" 을 하고 그 "비판"은 우리가 목표를 조금 더 정확하게 조준 할 수 있게 도와줍니다.<br>
+       <br>
+       우리가 도착 해야하는 궁극적인 목표는 같습니다.<br>
+       <br>
+       우리가 도달하고자 하는 목표는 각자가 모여 하나가 되었을 때 더 정확하고 빠르며 최소한의 에너지 소모로 도착할 수 있습니다.<br>
+       <br>
+       원래 자리에 있던 방아쇠처럼 자연스레 팀에 하나가 되어 목표를 향한 정확도를 한층 더 끌어 올리는 개발자가 되는 것을 모토로 삼고 있습니다.</i></b>
+
+
+    - role: 군자불기(君子不器), 군자는 쓰임새가 정해진 그릇같은 존재가 아니다.
+      company: 전문가에게 필요한 것은 실력만이 아니라고 생각합니다.
+      details: |
+        <b>그릇에 갇히지 않겠습니다.</b>
+
+        저의 강점은 어느 공간에 자연스레 녹아드는 친화력도 한 몫 한다고 생각합니다.
+
+        전문가의 마음가짐과 높은 친화력으로 함께 걸어가는 팀원들과 더욱 더 좋은 성과를 낼 수 있을거라, 그렇게 될거라 믿고있습니다.
+
+    - role: 불해학칙(不懈學則), 게을러지지 않는 것이 배움의 방법이다.
+      company: 그러나 저는 게으름은 개발자에게 아주 좋은 트리거가 될 수 있다고 생각합니다.
+      details: |
+        게으른 자, 그 들의 필요성 그리고 게으른 개발자 들에 의해서 세상은 생각보다 많이 바뀌었고 바뀌고 있다고 생각합니다.
+
+        TV 앞까지 걸어가기 귀찮아 탄생된 리모콘,<br>
+        걸어서 올라가기 힘들어서 도입된 에스컬레이터,<br>
+        좀 더 쉽게, 좀 더 편하게 변해가는 서비스,<br>
+        반복적인 테스트가 귀찮아 생겨난 자동화 툴 등.<br>
+
+        세상은 약간의 나태로 인해 많이 발전 했습니다.
+
+        <b>더 나은 변화를 위한 약간의 나태를 느끼며 불편한 사항을 개선시킬수 있는 그런 개발자이고 싶습니다.</b>
+
+    - role: 치망순역지(齒亡唇亦支), 이가 없으면 잇몸으로 산다.
+      company: 우리는 항상 동료를 믿어야하고, 버려야 할 것은 자존심 이라고 생각합니다.
+      details: |
+        <b>어떻게 생각해도 나보다 우리가 더 좋습니다.</b>
+
+        이가 없으면 잇몸으로 살지 않습니다.<br>
+        내가 아니라 우리, 그리고 옆에는 항상 든든한 동료가 있습니다.<br>
+
+        <b>팀원의 이가 없다면 내 이를,<br>
+        내 이가 없다면 팀원의 이를 빌려 본인의 것으로 소화한다면 서로의 발전을 도모할 수 있는 좋은 기회가 될 수 있다고 생각합니다.</b>
+
 
 publications:
     title: Publications
